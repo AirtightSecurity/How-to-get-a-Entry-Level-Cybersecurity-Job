@@ -1,6 +1,6 @@
 # How to get a Entry Level Cybersecurity Job
 
-This repository us the store of all the main points I have come across on LinkedIn, podcasts and YouTube related to finding an entry level cyber security job.
+This repository is the store of all the main points and suggestions I have come across on LinkedIn, podcasts and YouTube related to finding an entry level cybersecurity job.
 
 ## Subjects:
 
