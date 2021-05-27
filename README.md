@@ -25,6 +25,10 @@ https://www.linkedin.com/posts/micmerritt_cybersecurity-riskanalysis-yourbusines
 
 ## Resources to review and add
 
+Podcast - Breaking Into Cybersecurity
+
+https://www.listennotes.com/podcasts/breaking-into-cybersecurity-renee-kD1lUiZAb9n/
+
 The Cybersecurity career and job hunting guide.
 
 https://www.cyberhuntingguide.net/
