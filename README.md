@@ -25,6 +25,10 @@ https://www.linkedin.com/posts/micmerritt_cybersecurity-riskanalysis-yourbusines
 
 ## Resources to review and add
 
+An Introduction to Entry Level I.T. (by Zach Hill)
+
+https://www.linkedin.com/pulse/introduction-entry-level-zach-hill/
+
 Podcast - Breaking Into Cybersecurity
 
 https://www.listennotes.com/podcasts/breaking-into-cybersecurity-renee-kD1lUiZAb9n/
