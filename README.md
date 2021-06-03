@@ -25,6 +25,10 @@ https://www.linkedin.com/posts/micmerritt_cybersecurity-riskanalysis-yourbusines
 
 ## Resources to review and add
 
+The power of LinkedIn
+
+https://www.cyberhuntingguide.net/network-linkedin.html
+
 Interview question - tell me abotu yourself
 
 https://www.linkedin.com/posts/micmerritt_interview-cybersecurity-gethired-activity-6806254993528766464-scEa
