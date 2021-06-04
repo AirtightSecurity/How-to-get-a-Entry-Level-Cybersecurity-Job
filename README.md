@@ -25,6 +25,10 @@ https://www.linkedin.com/posts/micmerritt_cybersecurity-riskanalysis-yourbusines
 
 ## Resources to review and add
 
+Answering questions using the STAR method
+
+https://www.linkedin.com/posts/micmerritt_interviews-veteranshelpingveterans-gethired-activity-6806623468243820544-FVRE
+
 Resume writing - What did you do, and how can you leverage it to solve a potential employers problems? 
 
 https://www.linkedin.com/posts/geraldauger_simplycyber-cybersecurity-activity-6806335228425052160-Qf2E
